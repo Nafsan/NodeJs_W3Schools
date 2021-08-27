@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_w3schools",
+  "version": "1.0.0",
+  "description": "Node js tutorial of W3schools",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nafsan/NodeJs_W3Schools.git"
+  },
+  "keywords": [
+    "w3schools",
+    "node",
+    "npm",
+    "node",
+    "js",
+    "tutorial"
+  ],
+  "author": "Md. Shafiqul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nafsan/NodeJs_W3Schools/issues"
+  },
+  "homepage": "https://github.com/Nafsan/NodeJs_W3Schools#readme"
+}
